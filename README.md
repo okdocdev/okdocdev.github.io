@@ -18,5 +18,5 @@ If you are also a developer, this site will continuously bring you more debuggin
 如果您也是开发者，本站将会不断地给您带来更多开源软件的调试全程视图，助您快速理解复杂代码。
 
 
-Just try this [demo](https://okdoc.dev/p/javaTestDemo@20240523/index.html) !<br>
-快来看看这个 [demo](https://okdoc.dev/p/javaTestDemo@20240523/index.html) ！
+Just try this [demo](https://okdoc.dev/p/javaTestDemo@20240523:main/index.html) !<br>
+快来看看这个 [demo](https://okdoc.dev/p/javaTestDemo@20240523:main/index.html) ！
